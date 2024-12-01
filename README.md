@@ -5,4 +5,4 @@ Description
 
 Each map is uniquely designed with advanced AI enemies, collectible power-ups, and intense battles that will test your skill and strategy.
 
-![Gameplay Video](GamePlay/Tanks.mp4)
+![realistic_survival_tank_game_icon-removebg-preview](https://github.com/user-attachments/assets/f82fbcdd-6e0c-43bb-a455-17f1cd75ba89)
